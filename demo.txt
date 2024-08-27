@@ -1,0 +1,42 @@
+Instruction: This is a model letter. Adapt to fit your facts and circumstances.
+<date>
+
+<physician>
+<address>
+<address>
+<address>
+
+RE:
+Patient/Client:
+Date of Accident:
+Our File No:
+
+Dear <physician>:
+
+I, <patient>, do hereby authorize <medical facitlity> and its doctors to furnish my
+attorney, <name>, with a full report of examination, diagnosis, treatment, prognosis, etc., of
+myself in regard to the accident in which I was involved on <date>. In conjunction therewith, 1
+do hereby hold <medical facitlity> and its employees, associates, and agents free and harmless
+from any and all liability whatsoever that may arise from the release of such information to the
+said attomey or any person designated by the said attorney.
+
+agree and understand that upon my initial visit to for treatment or examination, 1 am
+obligated to pay an initial partial payment to and that the balance thereof shall be paid in monthly
+installments to I fully understand that I am primarily and personally liable for all treatment,
+examinations, and other medical services performed by anyone in the employ of <medical
+facility>. I further understand that my liability for payment is not conditioned upon any
+settlement, judgment, or recovery of monies by me for any such injuries sustained and that my
+liability to the said for such services rendered is absolute irrespective of whether I am successful
+in recovering any monies from those responsible for my injuries. I hereby authorize and
+imevocably direct my above-named attorney to pay directly to <medical facility> any and all
+sums as may be due and owing it for medical and medico-legal services (including reports,
+conferences, appearances, etc.), interest, service charges, and indexing charges rendered to me
+both by reason of this accident and by reason of any other bills that are due the said <medical
+facility> for which I am responsible and to withhold such sums from any settlement or judgment
+effected or entered into on my behalf and to pay the same as heretofore directed. I do hereby
+assign, transfer, and set over to the extent Iam indebted to <medical facility> any and all
+proceeds of any settlement or judgment effected or entered into on my behalf resulting from any
+litigation arising out of the aforementioned injuries. By this assignment, I do hereby
+<medical facility> a lien on the proceeds thereof.
+
+Patient /Client: <name> Signature
